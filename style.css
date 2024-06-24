@@ -112,3 +112,20 @@ input[type="submit"]:hover{
     transition: .5s;
 }
 
+.olvido{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color:rgb(205, 222, 216); 
+}
+
+.recupera {
+    color: rgb(205, 222, 216); 
+    cursor: pointer;
+    transition: color 0.3s;
+    text-decoration: none; /* Quitar subrayado */
+}
+
+.recupera:hover {
+    color: #0800ff; /* Color al pasar el cursor */
+}
