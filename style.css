@@ -6,7 +6,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    height: 100vh;
+    
 }
 
 .formulario{
@@ -128,4 +128,14 @@ input[type="submit"]:hover{
 
 .recupera:hover {
     color: #0800ff; 
+}
+
+.contexto {
+    text-align: center; /* Centra el texto horizontalmente */
+    margin-top: 600px; /* Espacio superior */
+}
+
+.contexto p {
+    font-size: 14px; 
+    color: #bfbfcf; 
 }
