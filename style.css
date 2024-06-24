@@ -123,9 +123,9 @@ input[type="submit"]:hover{
     color: rgb(205, 222, 216); 
     cursor: pointer;
     transition: color 0.3s;
-    text-decoration: none; /* Quitar subrayado */
+    text-decoration: none; 
 }
 
 .recupera:hover {
-    color: #0800ff; /* Color al pasar el cursor */
+    color: #0800ff; 
 }
